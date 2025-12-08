@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.paragrpah {
+    color: #2BFAFF;
+    text-align: center;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    border-style: dashed;
+    border-radius: 30px;
+}
